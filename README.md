@@ -1,6 +1,6 @@
-## PasteKeyboard
+## Paste Inputting
 
-PasteKeyboard is an iOS keyboard app that used to input words in pasteboard.
+Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
 
 * sudo gem install jekyll bundler
 * bundle install
