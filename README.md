@@ -7,3 +7,4 @@ PasteKeyboard is an iOS keyboard app that used to input words in pasteboard.
 * ./run.sh
 
 # paste-inputting
+# paste-inputting.github.io
