@@ -3,9 +3,9 @@ layout: default
 ---
 
 
-# Paste Inputting
+# weaction
 
-Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
+The Micro Action plan allows you to create to-do items in a quick and elegant way for granularity with actions and tasks that can be done immediately.
 
 [中文](./zhcn)
 
