@@ -9,3 +9,4 @@ Paste Inputting is an iOS keyboard app that used to input words in pasteboard.
 # paste-inputting
 # paste-inputting.github.io
 # weaction.github.io
+# weinote.github.io
